@@ -25,7 +25,7 @@ class tVan {
 		int postalCode;
 		tLoaded loadedPackages;
 
-	public:
+public:
 		tVan();
 		void setPostalCode(int code);
 		int getPostalCode() const;
