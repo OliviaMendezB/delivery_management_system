@@ -24,9 +24,13 @@ El sistema gestiona:
 ## Estructura del proyecto
 
 packages.h / packages.cpp : Definición de tPackage y tPackages. Gestión de paquetes y lista de paquetes.
+
 vans.h / vans.cpp : Definición de tVan, tLoaded y tVans. Gestión de furgonetas y paquetes cargados.
+
 main.cpp : Flujo principal de ejecución - carga de datos, asignación de paquetes, visualización y recogida manual.
+
 paquetes.txt : Archivo de entrada con los paquetes.
+
 codigos.txt : Archivo de entrada con los códigos postales asignados a las furgonetas.
 
 ## Mejoras implementadas respecto a la plantilla base
